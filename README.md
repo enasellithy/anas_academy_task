@@ -6,8 +6,8 @@
 - composer
 
 ## Install
-- git clone 
-- cd 
+- git clone https://github.com/enasellithy/anas_academy_task
+- cd anas_academy_task
 - composer install (Note if have some error when run (composer install) try this composer install --ignore-platform-reqs)
 - npm install
 - npm run build
