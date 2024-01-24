@@ -54,3 +54,9 @@
 #### Authentication
 - Implement user authentication using Laravel's built-in authentication system => i used Sanctum and livewire to front
 - Create a middleware to ensure only authenticated users can access certain routes => (app/Http/Middleware/Authenticated) => Route (secretPage)
+
+
+## API 
+### Auth
+- register => post
+- login => post 
